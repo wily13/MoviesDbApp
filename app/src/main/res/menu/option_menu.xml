@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search"
+        android:title="@string/search"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="collapseActionView|always" />
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/action_default"
+            android:checked="false"
+            android:title="@string/sort_default"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/action_newest"
+            android:checked="false"
+            android:title="@string/sort_newest"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/action_title_asc"
+            android:checked="false"
+            android:title="@string/sort_title_asc"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/action_title_dsc"
+            android:checked="false"
+            android:title="@string/sort_title_desc"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/action_popularity"
+            android:checked="true"
+            android:title="@string/sort_popularity"
+            app:showAsAction="never" />
+    </group>
+
+
+</menu>
