@@ -1,7 +1,7 @@
 Android Jetpack Pro (Final Submission) - Movie Catalogue
 
 <p align="center">
-  <img src="https://developer.android.com/topic/libraries/architecture/images/final-architecture.png" width="850">
+  <img src="https://developer.android.com/topic/libraries/architecture/images/final-architecture.png" width="750">
 </p>
 
 --------------------------------------------------------------------------------------------
@@ -9,18 +9,20 @@ Android Jetpack Pro (Final Submission) - Movie Catalogue
 
 #### Menu Movies
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_movies.png" width="200">
-  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_search_movies.png" width="200">
-  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/result_search_movies.png" width="200">
-  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/detail_movies_fav.png" width="200">
+  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_movies.png" width="150">
+  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_sort.png" width="150">
+  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_search_movies.png" width="150">
+  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/result_search_movies.png" width="150">
+  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/detail_movies_fav.png" width="150">
 </p>
 
 #### Menu Tv Shows
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_tvshows.png" width="200">
-  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_search_tvshows.png" width="200">
-  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/result_search_tv.png" width="200">
-  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/detail_tvshows_fav.png" width="200">
+  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_tvshows.png" width="150">
+  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_search_tvshows.png" width="150">
+  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/serach_noresult.png" width="150">
+  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/result_search_tv.png" width="150">
+  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/detail_tvshows_fav.png" width="150">
 </p>
 
 
