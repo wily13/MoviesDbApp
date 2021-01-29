@@ -6,7 +6,12 @@ Android Jetpack Pro (Final Submission) - Movie Catalogue
 
 --------------------------------------------------------------------------------------------
 ### Screenshot
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_movies.png" width="200">
+  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_sort.png" width="200">
+  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_search_movies.png" width="200">
+  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/result_search_movies.png" width="200">
+</p>
 
 
 --------------------------------------------------------------------------------------------
