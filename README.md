@@ -1,4 +1,4 @@
-Android Jetpack Pro (Final Submission) - Movie Catalogue
+Android Jetpack Pro - Movie Catalogue
 ===================================
 
 ### A basic sample android application to understand Clean Architecture in a very simple way and is written in Kotlin.
