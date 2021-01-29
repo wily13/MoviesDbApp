@@ -40,7 +40,6 @@ To start, consider the following diagram, which shows how all the modules should
 ### Library reference resources:
 
 - [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html)
-- [Lifecycle-aware components](https://developer.android.com/topic/libraries/architecture/lifecycle)
 - [ViewModels](https://developer.android.com/topic/libraries/architecture/viewmodel)
 - [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
 - [Navigation](https://developer.android.com/topic/libraries/architecture/navigation/)
