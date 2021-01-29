@@ -40,6 +40,7 @@ To start, consider the following diagram, which shows how all the modules should
 <h4>
 	Discover the most popular movies playing. Movies data fetched using <a href="https://www.themoviedb.org/">themoviedb.org</a> API.
 </h4>
+
 --------------------------------------------------------------------------------------------
 ### 📃 Library reference resources:
 
