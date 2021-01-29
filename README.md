@@ -21,17 +21,17 @@ Android Jetpack Pro (Final Submission) - Movie Catalogue
 <p align="center">
   <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_tvshows.png" width="150">
   <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/detail_tvshows_fav.png" width="150">
-  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_search_tvshows.png" width="150">
-  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/serach_noresult.png" width="150">
+  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_search_tvshows.png" width="150">  
   <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/result_search_tv.png" width="150">
+  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/serach_noresult.png" width="150">
 </p>
 
 
 #### Menu Favorite Movies and Tv Shows:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_favorite_nodata.png" width="200">
-  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_fav_movies.png" width="200">
-  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_fav_tv.png" width="200">
+  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_favorite_nodata.png" width="150">
+  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_fav_movies.png" width="150">
+  <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_fav_tv.png" width="150">
 </p>
 
 --------------------------------------------------------------------------------------------
