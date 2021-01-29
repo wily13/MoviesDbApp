@@ -5,6 +5,7 @@ Android Jetpack Pro - Movie Catalogue
 <h4 align="center">
 	Discover the most popular movies playing. Movies data fetched using <a href="https://www.themoviedb.org/">themoviedb.org</a> API.
 </h4>
+
 #### Overview
 To start, consider the following diagram, which shows how all the modules should interact with one another after designing the app:
 <p align="center">
