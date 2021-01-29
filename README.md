@@ -1,13 +1,13 @@
 Android Jetpack Pro (Final Submission) - Movie Catalogue
 
-![alt text](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
+<p align="center">
+  <img src="https://developer.android.com/topic/libraries/architecture/images/final-architecture.png" width="850">
+</p>
 
 --------------------------------------------------------------------------------------------
 ### Screenshot
 
-<p align="center">
-  <img src="https://developer.android.com/topic/libraries/architecture/images/final-architecture.png" width="650">
-</p>
+
 
 --------------------------------------------------------------------------------------------
 ### Library reference resources:
