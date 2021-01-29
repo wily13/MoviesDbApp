@@ -7,7 +7,7 @@ Android Jetpack Pro (Final Submission) - Movie Catalogue
 --------------------------------------------------------------------------------------------
 ### Screenshot
 
-# Menu Movies
+#### Menu Movies
 <p align="center">
   <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_movies.png" width="200">
   <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_search_movies.png" width="200">
@@ -15,7 +15,7 @@ Android Jetpack Pro (Final Submission) - Movie Catalogue
   <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/detail_movies_fav.png" width="200">
 </p>
 
-# Menu Tv Shows
+#### Menu Tv Shows
 <p align="center">
   <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_tvshows.png" width="200">
   <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_search_tvshows.png" width="200">
@@ -24,7 +24,7 @@ Android Jetpack Pro (Final Submission) - Movie Catalogue
 </p>
 
 
-# Menu Favorite Movies and Tv Shows
+#### Menu Favorite Movies and Tv Shows
 <p align="center">
   <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_favorite_nodata.png" width="200">
   <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_fav_movies.png" width="200">
