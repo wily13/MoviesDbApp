@@ -2,9 +2,6 @@ Android Jetpack Pro - Movie Catalogue
 ===================================
 
 ### A basic sample android application to understand Clean Architecture in a very simple way and is written in Kotlin.
-<h4>
-	Discover the most popular movies playing. Movies data fetched using <a href="https://www.themoviedb.org/">themoviedb.org</a> API.
-</h4>
 
 #### Overview
 To start, consider the following diagram, which shows how all the modules should interact with one another after designing the app:
@@ -40,7 +37,9 @@ To start, consider the following diagram, which shows how all the modules should
   <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_fav_movies.png" width="150">
   <img src="https://raw.githubusercontent.com/wily13/MoviesDbApp/master/screenshot/menu_fav_tv.png" width="150">
 </p>
-
+<h4>
+	Discover the most popular movies playing. Movies data fetched using <a href="https://www.themoviedb.org/">themoviedb.org</a> API.
+</h4>
 --------------------------------------------------------------------------------------------
 ### 📃 Library reference resources:
 
