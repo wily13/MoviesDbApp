@@ -1,7 +1,7 @@
 Android Jetpack Pro (Final Submission) - Movie Catalogue
 ===================================
 
-## Overview
+Overview
 To start, consider the following diagram, which shows how all the modules should interact with one another after designing the app:
 <p align="center">
   <img src="https://developer.android.com/topic/libraries/architecture/images/final-architecture.png" width="750">
